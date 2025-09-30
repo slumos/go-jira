@@ -3,7 +3,7 @@ package jira
 import (
 	"encoding/json"
 
-	"github.com/go-jira/jira/jiradata"
+	"github.com/slumos/go-jira/jiradata"
 )
 
 // https://docs.atlassian.com/jira/REST/cloud/#api/2/project-getProjectComponents

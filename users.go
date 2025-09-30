@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/go-jira/jira/jiradata"
+	"github.com/slumos/go-jira/jiradata"
 )
 
 type UserSearchOptions struct {

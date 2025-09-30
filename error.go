@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/go-jira/jira/jiradata"
+	"github.com/slumos/go-jira/jiradata"
 )
 
 func responseError(resp *http.Response) error {

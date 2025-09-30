@@ -7,9 +7,9 @@ import (
 	"github.com/coryb/figtree"
 	"github.com/coryb/oreo"
 
-	"github.com/go-jira/jira"
-	"github.com/go-jira/jira/jiracli"
-	"github.com/go-jira/jira/jiradata"
+	"github.com/slumos/go-jira"
+	"github.com/slumos/go-jira/jiracli"
+	"github.com/slumos/go-jira/jiradata"
 	kingpin "gopkg.in/alecthomas/kingpin.v2"
 )
 
